@@ -6,3 +6,4 @@ A full stack house party web app with guest permissions and voting feature.
 ### Tech stack used: 
 Backend: Django & Python
 Frontend: React & JavaScript
+API: Spotify Public
